@@ -7,8 +7,9 @@
 
 <h3 align="left"> Career </h3>
 <div align="left"> <h5>
-• Kwangwoon University, Seoul, Korea <br><br>
-- Bachelor of Science in School of Information Convergence, March 2019 – February 2025<br><br>
+• [May 2025 ~ ] OSD, Pohang, Korea, Frontend Developer <br><br>
+• [March 2019 ~ February 2025] Kwangwoon University, Seoul, Korea <br><br>
+- Bachelor of Science in School of Information Convergence <br><br>
 - GPA: 4.0 / 4.5
   </h5>
 </div>
