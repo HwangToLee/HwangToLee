@@ -1,7 +1,7 @@
 <h3 align="left"> Tech Stack </h3>
 <div align="left"><h5>
-- Python, C, C++, Java, JavaScript, HLSL <br><br>
-- Unreal Engine: Blueprint, C++, Behavior Tree
+- [Language] Python, C++, Java, JavaScript, TypeScript, HLSL <br><br>
+- [Tools] Unreal Engine, React, React Native
   </h5>
 </div>
 
