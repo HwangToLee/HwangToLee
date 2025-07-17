@@ -16,7 +16,7 @@
 
 <h3 align="left"> Projects </h3>
 <div align="left"> <h5>
-  [2024] 딥러닝 데이터 분석을 이용한 추천 시스템 개발 - Javscript, Springboot <br><br>
+  [2024] CleVo : AI를 활용한 영어 발음 학습 서비스 - Javscript, Springboot <br><br>
   [2023] 챗봇 기반 사용자 맞춤형 일정 추천 서비스: 데이터 크롤링, 가공 및 분석, 활용 - Selenium, Python, NLP <br><br>
   [2023] 가상현실 교통사고 시뮬레이터: Unreal Engine, VR <br><br>
   [2023] Translation, Rotation, Phong Shading 구현 - Three.js, GLSL <br><br>
