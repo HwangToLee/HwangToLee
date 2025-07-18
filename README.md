@@ -25,10 +25,9 @@
 <div align="left"> <h5>
 • [2025.05 ~ ] OSD, Pohang, Korea, Frontend Developer <br><br>
 • [2019.03 ~ 2025.02] Kwangwoon University, Seoul, Korea <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Science in School of Information Convergence, GPA: 4.0 / 4.5 </p><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Science in School of Information Convergence, GPA: 4.0 / 4.5 </p>
   </h5>
 </div>
-
 
 <h3 align="left"> Projects </h3>
 <div align="left"> <h5>
